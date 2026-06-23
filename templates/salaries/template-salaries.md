@@ -482,15 +482,3 @@ salary_ac
 * **Required** 
 `integer=[20]`
 
-tag
----
-
-* **Description** 
-`Optional but highly recommended at least one tag. More tags is better. No limit.`
-
-* **Source** 
-https://drive.google.com/file/d/1IqawpaVr46TwROYCCMelP9VZ2wwGo-Xn/view?usp=share_link
-
-* **Required** 
-`id=[integer]`
-
