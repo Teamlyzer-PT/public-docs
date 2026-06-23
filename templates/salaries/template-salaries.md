@@ -62,7 +62,7 @@ user_id
 -------
 
 * **Description** 
-`Mandatory. Your user_id.`
+`Mandatory. Always 2`
 
 * **Required** 
 `id=[integer]`
